@@ -9,7 +9,7 @@ Group Members:
 # Project Details
 This project is a comparative study of different data compression algorithms, namely:
 - Zstandard
-- 7-Zip ZS
+- zlib
 - LZ4
 
 These algorithms claims to offer the same benefits, however, each algorithm will have its own strengths and weaknesses. This project aims to discover what they are by testing each algorithm with the same corpus and specifications. The following benchmarks will be measured and compared:
@@ -18,6 +18,9 @@ These algorithms claims to offer the same benefits, however, each algorithm will
 - Decompression Speed
 - Time Complexity
 - Space Complexity
+
+# Repository Contents
+To be updated.
 
 # Report
 Link is not available yet.
