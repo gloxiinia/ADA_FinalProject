@@ -1,15 +1,26 @@
-# ADaA_FinalProject
+# Algorithm Design and Analysis
 
-Group members:
+Group Members:
+- Alysha Puti Maulidina (2502005906)
+- Kimberly Mazel (2502022250)
+- Rachel Anastasia Wijaya (2502009646)
+- Chellshe Love Simrochelle (2502043040)
 
-ALYSHA PUTI MAULIDINA (2502005906)
+# Project Details
+This project is a comparative study of different data compression algorithms, namely:
+- Zstandard
+- zlib
+- LZ4
 
-KIMBERLY MAZEL (2502022250)
+These algorithms claims to offer the same benefits, however, each algorithm will have its own strengths and weaknesses. This project aims to discover what they are by testing each algorithm with the same corpus and specifications. The following benchmarks will be measured and compared:
+- Compression Ratio
+- Compression Speed
+- Decompression Speed
+- Time Complexity
+- Space Complexity
 
-RACHEL ANASTASIA WIJAYA (2502009646)
+# Repository Contents
+To be updated.
 
-CHELLSHE LOVE SIMROCHELLE (2502043040)
-
-Project Details:
-
-Report Link:
+# Report
+Link is not available yet.
