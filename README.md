@@ -24,3 +24,6 @@ To be updated.
 
 # Report
 Link is not available yet.
+
+# Asset Link
+Google drive link will be added.

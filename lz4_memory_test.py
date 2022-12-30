@@ -119,3 +119,27 @@ json_decom_snapshot = tracemalloc.take_snapshot()
 print("\n================ JSON DECOMPRESSION SNAPSHOT =================")
 for stat in json_decom_snapshot.statistics("lineno"):
     print(stat)
+
+tracemalloc.clear_traces()
+
+with open('test_files/spiral_hubble.png', 'rb') as infile:
+    with open('lz4_test_files/spiral_hubble.lz4', 'wb') as outfile:
+        outfile.write(lz4.frame.compress(infile.read()))
+
+img_com_snapshot = tracemalloc.take_snapshot()
+
+print("================ IMG BIG COMPRESSION SNAPSHOT =================")
+for stat in img_com_snapshot.statistics("lineno"):
+    print(stat)
+
+tracemalloc.clear_traces()
+
+with open('lz4_test_files/spiral_hubble.lz4', 'rb') as infile:
+    with open('lz4_test_files/spiral_hubbleAfterlz4.png', 'wb') as outfile:
+        outfile.write(lz4.frame.decompress(infile.read()))
+
+img_decom_snapshot = tracemalloc.take_snapshot()
+
+print("\n================ IMG BIG DECOMPRESSION SNAPSHOT =================")
+for stat in img_decom_snapshot.statistics("lineno"):
+    print(stat)
