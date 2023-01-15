@@ -2,7 +2,7 @@
 
 ## Project Details
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://www.canva.com/design/DAFWwybfAsE/_AUYzQh96zYHMDHbpcRong/view?utm_content=DAFWwybfAsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0c5675d857a434f72a771acb056e09b66&authkey=AZ4zBefTSmzgmuG8reykx4I&e=hUqjZF)
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 [![paper](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://www.overleaf.com/read/vzvysrxtshyf)
 
