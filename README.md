@@ -4,7 +4,7 @@
 
 [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0c5675d857a434f72a771acb056e09b66&authkey=AZ4zBefTSmzgmuG8reykx4I&e=hUqjZF)
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
-[![paper](https://img.shields.io/static/v1.svg?label=Project&message=Paper&logo=microsoft-word&style=social)](https://www.overleaf.com/read/vzvysrxtshyf)
+[![paper](https://img.shields.io/static/v1.svg?label=Project&message=Paper&logo=microsoft-word&style=social)]([https://www.overleaf.com/read/vzvysrxtshyf](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=05664e202e75a4d0e94dce60b4c56e790&authkey=ATOqcy85QvtmLzqECDtX0ww&e=hk6YUm))
 
 > **You can view the paper via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
 
