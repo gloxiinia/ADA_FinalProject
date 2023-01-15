@@ -7,6 +7,12 @@ Group Members:
 - Chellshe Love Simrochelle (2502043040)
 
 # Project Details
+
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://www.canva.com/design/DAFWwybfAsE/_AUYzQh96zYHMDHbpcRong/view?utm_content=DAFWwybfAsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://www.overleaf.com/read/vzvysrxtshyf)
+
+> **You can view the report via Overleafe [here](https://www.overleaf.com/read/vzvysrxtshyf).
+
 This project is a comparative study of different data compression algorithms, namely:
 - Zstandard
 - zlib
@@ -21,9 +27,3 @@ These algorithms claims to offer the same benefits, however, each algorithm will
 
 # Repository Contents
 To be updated.
-
-# Report
-Link is not available yet.
-
-# Asset Link
-Google drive link will be added.
