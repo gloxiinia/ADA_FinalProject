@@ -7,16 +7,13 @@
 
 > **You can view the report via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
 
+Data compression continues to grow more important in the era of rapid communication and transfer of data. Compression algorithms allow this to happen, but there are many different options available for use. This comparative study investigates three different lossless compression algorithms, namely Zstandard, zlib, and LZ4. The study aims to provide insight into the performance of each algorithm to identify its strengths and weaknesses in different applications
+
 ## Contributors 
 - Alysha Puti Maulidina (2502005906)
 - Kimberly Mazel (2502022250)
 - Rachel Anastasia Wijaya (2502009646)
 - Chellshe Love Simrochelle (2502043040)
-
-This project is a comparative study of different data compression algorithms, namely:
-- Zstandard
-- zlib
-- LZ4
 
 ## Benchmark
 
