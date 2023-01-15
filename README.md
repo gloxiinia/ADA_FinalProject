@@ -4,7 +4,7 @@
 
 [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0c5675d857a434f72a771acb056e09b66&authkey=AZ4zBefTSmzgmuG8reykx4I&e=hUqjZF)
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=02ad8f537e92c4af4a39fdd205a6b8706&authkey=AZG-kKhpeOUL1iIMgh1jrqs&e=nvBVoZ)
-[![paper](https://img.shields.io/static/v1.svg?label=Project&message=Paper&logo=microsoft-word&style=social)]([https://www.overleaf.com/read/vzvysrxtshyf](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0c018fbd58cac4694bacf776fbc231cc6&authkey=AS57C_cZ1s2PORqIvag8xCU&e=USWjru)
+[![paper](https://img.shields.io/static/v1.svg?label=Project&message=Paper&logo=microsoft-word&style=social)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0c018fbd58cac4694bacf776fbc231cc6&authkey=AS57C_cZ1s2PORqIvag8xCU&e=USWjru)
 
 > **You can view the paper via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
 
