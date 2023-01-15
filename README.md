@@ -1,10 +1,4 @@
-# Algorithm Design and Analysis
-
-Group Members:
-- Alysha Puti Maulidina (2502005906)
-- Kimberly Mazel (2502022250)
-- Rachel Anastasia Wijaya (2502009646)
-- Chellshe Love Simrochelle (2502043040)
+# Comparative Study of Data Compression Algorithms: Zstandard, zlib & LZ4
 
 # Project Details
 
@@ -13,10 +7,18 @@ Group Members:
 
 > **You can view the report via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
 
+## Contributors 
+- Alysha Puti Maulidina (2502005906)
+- Kimberly Mazel (2502022250)
+- Rachel Anastasia Wijaya (2502009646)
+- Chellshe Love Simrochelle (2502043040)
+
 This project is a comparative study of different data compression algorithms, namely:
 - Zstandard
 - zlib
 - LZ4
+
+## Benchmark
 
 These algorithms claims to offer the same benefits, however, each algorithm will have its own strengths and weaknesses. This project aims to discover what they are by testing each algorithm with the same corpus and specifications. The following benchmarks will be measured and compared:
 - Compression Ratio
