@@ -3,9 +3,10 @@
 # Project Details
 
 [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://www.canva.com/design/DAFWwybfAsE/_AUYzQh96zYHMDHbpcRong/view?utm_content=DAFWwybfAsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://www.overleaf.com/read/vzvysrxtshyf)
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
+[![paper](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://www.overleaf.com/read/vzvysrxtshyf)
 
-> **You can view the report via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
+> **You can view the paper via Overleaf [here](https://www.overleaf.com/read/vzvysrxtshyf).
 
 Data compression continues to grow more important in the era of rapid communication and transfer of data. Compression algorithms allow this to happen, but there are many different options available for use. This comparative study investigates three different lossless compression algorithms, namely Zstandard, zlib, and LZ4. The study aims to provide insight into the performance of each algorithm to identify its strengths and weaknesses in different applications
 
